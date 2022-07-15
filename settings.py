@@ -1,1 +1,0 @@
-MONGO_URL = "mongodb+srv://Joseph:20992656@firstmongoapp.otp4o.mongodb.net/?retryWrites=true&w=majority"
